@@ -1,0 +1,16 @@
+C:\Users\busen\source\repos\k32\k32\bin\Debug\net6.0-windows\k32.exe
+C:\Users\busen\source\repos\k32\k32\bin\Debug\net6.0-windows\k32.deps.json
+C:\Users\busen\source\repos\k32\k32\bin\Debug\net6.0-windows\k32.runtimeconfig.json
+C:\Users\busen\source\repos\k32\k32\bin\Debug\net6.0-windows\k32.dll
+C:\Users\busen\source\repos\k32\k32\bin\Debug\net6.0-windows\k32.pdb
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.Form1.resources
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.csproj.GenerateResource.cache
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.AssemblyInfoInputs.cache
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.AssemblyInfo.cs
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.csproj.CoreCompileInputs.cache
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.dll
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\refint\k32.dll
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.pdb
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\k32.genruntimeconfig.cache
+C:\Users\busen\source\repos\k32\k32\obj\Debug\net6.0-windows\ref\k32.dll
